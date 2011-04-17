@@ -110,6 +110,7 @@ struct usb_device_id rtusb_usb_id[] = {
 	{USB_DEVICE(0x0411, 0x00e8)},	/* Buffalo WLI-UC-G300N */
 	{USB_DEVICE(0x050d, 0x815c)},	/* Belkin F5D8053 */
 	{USB_DEVICE(0x100D, 0x9031)},	/* Motorola 2770 */
+	{USB_DEVICE(0x15A9, 0x0012)},	/* Airlink AWLL7025 */
 #endif /* RT2870 // */
 #ifdef RT3070
 	{USB_DEVICE(0x148F, 0x3070)},	/* Ralink 3070 */

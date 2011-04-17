@@ -52,6 +52,7 @@ obj-$(CONFIG_SAMSUNG_LAPTOP)	+= samsung-laptop/
 obj-$(CONFIG_FB_SM7XX)		+= sm7xx/
 obj-$(CONFIG_VIDEO_DT3155)	+= dt3155v4l/
 obj-$(CONFIG_CRYSTALHD)		+= crystalhd/
+obj-$(CONFIG_OMAP3_SGX) 	+= omap3-sgx/
 obj-$(CONFIG_CXT1E1)		+= cxt1e1/
 obj-$(CONFIG_TI_ST)		+= ti-st/
 obj-$(CONFIG_FB_XGI)		+= xgifb/
